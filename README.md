@@ -4,4 +4,4 @@ This repository contains all the code files and important links that were used i
 URL to the dataset - https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 
-Copyright and Licensed under Aman Mittal.
+Copyright Classification of credit card transactions by Aman Mittal. All rights reserved!
